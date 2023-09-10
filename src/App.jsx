@@ -1,9 +1,9 @@
-
+import AppRouter from "./AppRouter"
 const App = () => {
 
   return (
     <>
-      <h1>Vapor UI</h1>
+      <AppRouter/>
     </>
   )
 }
