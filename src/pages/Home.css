@@ -1,4 +1,52 @@
+@import url(../components/Common/colors.css);
+
 .home-container{
-    border: solid red;
     text-align: center;
+    margin-top: 10px;
+    margin-right: 5px;
+}
+
+.vapor-img{
+    width: 100%;
+    height: 500px;
+    border-radius: 30px;
+    position: relative;
+}
+
+.home-heading{
+    position: absolute;
+    top: 100px;
+    color: var(--accent-color);
+    left: 400px;
+    font-size: 100px;
+}
+
+.home-content{
+    position: absolute;
+    top: 230px;
+    color: var(--accent-color);
+    left: 410px;
+    font-size: 30px;
+    text-align: left;
+    font-weight: 500;
+}
+
+.home-btn{
+    position: absolute;
+    background: var(--vapor-color);
+    border-radius: 30px;
+    top: 350px;
+    left: 600px;
+    padding: 15px;
+    font-size: 35px;
+    border: none;
+    outline: none;
+    color: var(--accent-color);
+    font-weight: 500;
+    transition: 0.3s;
+}
+
+.home-btn:hover{
+    cursor: pointer;
+    background: var(--vapor-lite);
 }
