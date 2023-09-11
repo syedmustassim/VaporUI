@@ -5,4 +5,14 @@
     --accent-color: #EEEEEE;
     --vapor-color: #57375D;
     --vapor-lite: #79155B;
+    --success-primary: #008000;
+    --success-secondary: #9ef01a;
+    --error-primary: #a4161a;
+    --error-secondary: #fb6c70;
+    --warning-primary: #ae7f19;
+    --warning-secondary: #fae588;
+    --info-primary: #023e8a;
+    --info-secondary: #48cae4;
+    --dark-primary: #212529;
+    --dark-secondary: #343a40;
 }

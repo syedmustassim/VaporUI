@@ -1,0 +1,49 @@
+@import url(../Common/colors.css);
+
+.success {
+    background-color: var(--success-secondary);
+    color: var(--success-primary);
+    width: 400px;
+    height: 80px;
+    font-size: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.error {
+    background-color: var(--error-secondary);
+    color: var(--error-primary);
+    width: 400px;
+    height: 80px;
+    font-size: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.warning {
+    background-color: var(--warning-secondary);
+    color: var(--warning-primary);
+    width: 400px;
+    height: 80px;
+    font-size: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-weight: 600;
+}
+.info {
+    background-color: var(--info-secondary);
+    color: var(--info-primary);
+    width: 400px;
+    height: 80px;
+    font-size: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+
+
