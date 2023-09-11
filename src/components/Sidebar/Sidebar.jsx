@@ -1,18 +1,26 @@
 import {BiHomeAlt2} from "react-icons/bi"
 import {BsColumnsGap} from "react-icons/bs"
+import {FiGithub} from "react-icons/fi"
+
+import { Link } from "react-router-dom"
 import "./Sidebar.css"
 
 const Sidebar = () => {
     return(
         <div className="sidebar">
-            <div className="sidebar-card">
+            <Link to="/" className="sidebar-card">
                 <BiHomeAlt2 size={30} className="card-icon"/>
                 <h2>Home</h2>
-            </div>
-            <div className="sidebar-card">
+            </Link>
+            <Link to="/getstarted" className="sidebar-card">
                 <BsColumnsGap size={30} className="card-icon"/>
                 <h2>Get Started</h2>
-            </div>
+            </Link>
+            <Link to="https://github.com/syedmustassim/VaporUI" className="sidebar-card">
+                <FiGithub size={30} className="card-icon"/>
+                <h2>Github</h2>
+            </Link>
+
         </div>
     )
 }
