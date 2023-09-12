@@ -62,3 +62,11 @@ export const xlHeading = `
 export const xlHeadingItalic = `
 <Headings type="xl-italic">Extra Large Heading Italic</Headings>
 `
+
+export const filledText = `
+<Text type={"filled-text"} label={"Enter text here"}/>
+`
+
+export const outlinedText = `
+<Text type={"outlined-text"} label={"Enter text here"}/>
+`
