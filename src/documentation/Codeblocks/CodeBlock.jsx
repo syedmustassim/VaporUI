@@ -36,3 +36,22 @@ export const fab = `
 <Fab icon={"add"} size={30}>Icon button</Fab>
 <Fab icon={"logout"} size={40}>Icon button</Fab>
 `
+
+export const textCard = `
+<Card type="outlined" heading={"Autumn"}>Autumn is wonderful.</Card>
+<Card type="elevated" heading={"Summer"}>Summer is for the beach.</Card>
+<Card type="filled" heading={"Winter"}>Winter is to hibernate.</Card>
+`
+
+export const toggleCard = `
+<ToggleCard type={"outlined"} heading={"Autumn"}>Autumn, often referred to as the "season of mists and mellow fruitfulness," is a time of transition and natural splendor. As the long, lazy days of summer gradually yield to cooler temperatures, the world transforms into a breathtaking tapestry of colors.</ToggleCard>
+<ToggleCard type={"elevated"} heading={"Summer"}>Summer, a season of sun-kissed days and balmy nights, invites us to embrace the warmth of the sun, savor ice cream treats, and create cherished memories under clear blue skies.</ToggleCard>
+`
+
+export const overlayCard = `
+<OverlayCard source={"https://i.postimg.cc/3wkvf0CR/vapor-three.jpg"} name="overlay-img" overlayText={"Autumn"} type={"outlined"}> Autumn, often referred to as the "season of mists and mellow fruitfulness," is a time of transition and natural splendor. As the long, lazy days of summer gradually yield to cooler temperatures, the world transforms into a breathtaking tapestry of colors.</OverlayCard>
+`
+
+export const horizontalCard = `
+<HorizontalCard  source={"https://i.postimg.cc/3wkvf0CR/vapor-three.jpg"} name="overlay-img" >Autumn, often referred to as the "season of mists and mellow fruitfulness," is a time of transition and natural splendor. As the long, lazy days of summer gradually yield to cooler temperatures, the world transforms into a breathtaking tapestry of colors.</HorizontalCard>
+`
