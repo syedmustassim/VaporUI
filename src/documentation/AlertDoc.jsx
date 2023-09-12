@@ -1,6 +1,6 @@
 import Alert from "../components/Alert/Alert";
 import { CodeBlock } from "react-code-blocks";
-import { alertCode } from "./Codeblocks/AlertCode";
+import { alertCode } from "./Codeblocks/CodeBlock";
 import "./Documentation.css"
 
 const AlertDoc = () => {
