@@ -19,3 +19,57 @@
 .badge label{
     font-weight: bold;
 }
+
+.avatar-badge{
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;  
+}
+
+.online{
+    position: absolute;
+    top: 60px;
+    left: 52px;
+    font-weight: bold;
+    width: 21px;
+    height: 21px;
+    background-color: var(--success-primary);
+    border-radius: 50%;
+    text-align: center;
+}
+
+.away{
+    position: absolute;
+    top: 60px;
+    left: 52px;
+    font-weight: bold;
+    width: 21px;
+    height: 21px;
+    background-color: var(--warning-secondary);
+    border-radius: 50%;
+    text-align: center;
+}
+
+.busy {
+        position: absolute;
+        top: 60px;
+        left: 52px;
+        font-weight: bold;
+        width: 21px;
+        height: 21px;
+        background-color: var(--busy);
+        border-radius: 50%;
+        text-align: center;
+}
+
+.offline {
+    position: absolute;
+    top: 60px;
+    left: 52px;
+    font-weight: bold;
+    width: 21px;
+    height: 21px;
+    background-color: var(--offline);
+    border-radius: 50%;
+    text-align: center;
+}

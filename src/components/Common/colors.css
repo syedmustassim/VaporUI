@@ -16,4 +16,6 @@
     --info-secondary: #48cae4;
     --dark-primary: #212529;
     --dark-secondary: #343a40;
+    --busy: #ca1d23;
+    --offline: rgb(130, 127, 127);
 }
