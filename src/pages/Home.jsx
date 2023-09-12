@@ -9,7 +9,11 @@ const Home = () => {
                 <p className="home-content">Vapor-1 aims to simplify your design and development workflow, so you can create stunning, user-friendly experiences.</p>
                 <Link to="/getstarted"><button className="home-btn">Get Started</button></Link>
             </div>
-
+            <div className="home-secondary">
+                <img src="https://i.postimg.cc/L6LySvYf/sail.jpg" alt="vapor-five" className="vapor-secondary"/>
+                <h1>A UI Design System</h1>
+                <h2>developed by &copy; Syed Mustassim</h2>
+            </div>
         </div>
     )
 }
