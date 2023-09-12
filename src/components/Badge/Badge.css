@@ -1,0 +1,21 @@
+.badge{
+    display: inline-flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.badge span{
+    position: absolute;
+    top: -12px;
+    left: 12px;
+    font-weight: bold;
+    width: 21px;
+    height: 21px;
+    background-color: var(--primary-color);
+    border-radius: 40%;
+    text-align: center;
+}
+
+.badge label{
+    font-weight: bold;
+}
