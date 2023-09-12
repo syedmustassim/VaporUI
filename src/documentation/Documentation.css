@@ -56,3 +56,11 @@
     margin-top: 30px;
     margin-bottom: 30px;
 }
+
+.hd-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

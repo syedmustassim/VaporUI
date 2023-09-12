@@ -55,3 +55,10 @@ export const overlayCard = `
 export const horizontalCard = `
 <HorizontalCard  source={"https://i.postimg.cc/3wkvf0CR/vapor-three.jpg"} name="overlay-img" >Autumn, often referred to as the "season of mists and mellow fruitfulness," is a time of transition and natural splendor. As the long, lazy days of summer gradually yield to cooler temperatures, the world transforms into a breathtaking tapestry of colors.</HorizontalCard>
 `
+
+export const xlHeading = `
+<Headings type="xl">Extra Large Heading</Headings>
+`
+export const xlHeadingItalic = `
+<Headings type="xl-italic">Extra Large Heading Italic</Headings>
+`

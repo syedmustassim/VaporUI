@@ -1,0 +1,42 @@
+.xl{
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.xl-italic{
+    font-size: 40px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.large{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.large-italic{
+    font-size: 35px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.medium{
+    font-size: 28px;
+    font-weight: 600;
+}
+.medium-italic{
+    font-size: 28px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.small{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.small-italic{
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+}
