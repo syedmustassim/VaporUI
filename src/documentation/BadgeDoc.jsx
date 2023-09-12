@@ -42,7 +42,6 @@ const BadgeDoc = () => {
         <p>Your avatar component should be wrapped inside the avatar badge component.</p>
         <p>Type - takes in four values to determine the user's status. They are, 'online', 'offline', 'busy' and 'away'.</p>
         <p>Please use the avatars on size, 'medium' for the best user experience.</p>
-
       </div>
     );
   };
