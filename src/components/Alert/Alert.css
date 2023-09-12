@@ -4,8 +4,8 @@
     background-color: var(--success-secondary);
     color: var(--success-primary);
     width: 400px;
-    height: 80px;
-    font-size: 30px;
+    min-height: 100px;
+    font-size: 20px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -15,8 +15,8 @@
     background-color: var(--error-secondary);
     color: var(--error-primary);
     width: 400px;
-    height: 80px;
-    font-size: 30px;
+    min-height: 100px;
+    font-size: 20px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -26,8 +26,8 @@
     background-color: var(--warning-secondary);
     color: var(--warning-primary);
     width: 400px;
-    height: 80px;
-    font-size: 30px;
+    min-height: 100px;
+    font-size: 20px;
     display: inline-flex;
     justify-content: center;
     align-items: center;
@@ -38,8 +38,8 @@
     background-color: var(--info-secondary);
     color: var(--info-primary);
     width: 400px;
-    height: 80px;
-    font-size: 30px;
+    min-height: 100px;
+    font-size: 20px;
     display: inline-flex;
     justify-content: center;
     align-items: center;

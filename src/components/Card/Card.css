@@ -1,0 +1,25 @@
+.outlined{
+    width: 400px;
+    border-radius: 20px;
+    border: 1px solid var(--dark-secondary);
+    padding: 10px;
+    min-height: 100px;
+}
+
+.filled{
+    width: 400px;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    min-height: 100px;
+    background-color: var(--secondary-color);
+    color: var(--accent-color)
+}
+
+.elevated{
+    width: 400px;
+    border-radius: 20px;
+    padding: 10px;
+    min-height: 100px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}

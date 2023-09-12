@@ -1,0 +1,33 @@
+.components-main{
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.components-heading{
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.components-content{
+    font-size: 26px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.components-secondary{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.components-link{
+    text-decoration: none;
+    text-align: center;
+    color: var(--vapor-three);
+    transition: 0.3s;
+    margin-top: 30px;
+}
+
+.components-link:hover{
+    color: var(--info-secondary);
+}
