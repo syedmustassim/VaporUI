@@ -1,4 +1,3 @@
-import Alert from "../components/Alert/Alert";
 import {Link} from "react-router-dom"
 import {RxComponent1} from "react-icons/rx"
 import "./GetStarted.css"
