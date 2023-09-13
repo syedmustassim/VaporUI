@@ -1,8 +1,18 @@
-# React + Vite
+<h1>Vapor UI</h1>
+<h2>A UI component library by Syed Mustassim</h2>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>Welcome to Vapor UI, a versatile UI component library designed to simplify and enhance the development of web applications. Vapor UI provides a collection of reusable and customizable components to streamline your frontend development process, ensuring consistency and efficiency.</p>
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Modular Components:** Vapor UI offers a wide range of modular UI components, from buttons and cards to alerts and badges, making it easy to build intuitive and engaging user interfaces.
+
+- **Customization:** Tailor the appearance and behavior of components to match your project's unique design requirements. Customize sizes, and styles effortlessly.
+
+- **Easy Integration:** Incorporate Vapor UI into your project effortlessly using popular frontend framework React. 
+
+The entire design system has been developed on React and uses Vanilla CSS. 
+
+If you have any questions, feedback, or need support, feel free to reach out to me at smustassim@gmail.com.
+
+Happy coding with Vapor UI! 🚀
