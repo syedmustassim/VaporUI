@@ -63,9 +63,8 @@
 }
 
 .start-img-content{
-    position: absolute;
-    top: 720px;
-    left: 1030px;
+    position: relative;
+    top: -300px;
     display: flex;
     justify-content: center;
     background: var(--dark-primary);
