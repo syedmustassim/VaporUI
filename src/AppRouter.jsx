@@ -9,6 +9,7 @@ import ButtonDoc from "./documentation/ButtonDoc";
 import CardDoc from "./documentation/CardDoc";
 import HeadingDoc from "./documentation/HeadingDoc";
 import TextDoc from "./documentation/TextDoc";
+import ImageDoc from "./documentation/ImageDoc";
 
 const AppRouter = () => {
     return(
@@ -23,6 +24,7 @@ const AppRouter = () => {
                 <Route path="/components/button" element={<ButtonDoc/>} />
                 <Route path="/components/cards" element={<CardDoc/>} />
                 <Route path="/components/heading" element={<HeadingDoc/>} />
+                <Route path="/components/image" element={<ImageDoc/>} />
                 <Route path="/components/text" element={<TextDoc/>} />
             </Routes>
         </div>

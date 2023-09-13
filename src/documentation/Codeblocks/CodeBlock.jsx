@@ -70,3 +70,11 @@ export const filledText = `
 export const outlinedText = `
 <Text type={"outlined-text"} label={"Enter text here"}/>
 `
+
+export const responsiveImg = `
+<Image source={"https://i.postimg.cc/L6LySvYf/sail.jpg"} alt={"vapor"} type={"responsive"} />
+`
+
+export const roundedResImg = `
+<Image source={"https://i.postimg.cc/L6LySvYf/sail.jpg"} alt={"vapor"} type={"responsive-rounded"} />
+`

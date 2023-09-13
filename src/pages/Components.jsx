@@ -13,6 +13,7 @@ const Components = () => {
                 <Link to="/components/button" className="components-link"><Card type="outlined"><h1>Buttons</h1><h3>Click here to view buttons</h3></Card></Link>
                 <Link to="/components/cards" className="components-link"><Card type="outlined"><h1>Cards</h1><h3>Click here to view cards</h3></Card></Link>
                 <Link to="/components/heading" className="components-link"><Card type="outlined"><h1>Heading</h1><h3>Click here to view headings</h3></Card></Link>
+                <Link to="/components/image" className="components-link"><Card type="outlined"><h1>Image</h1><h3>Click here to view image component</h3></Card></Link>
                 <Link to="/components/text" className="components-link"><Card type="outlined"><h1>Text</h1><h3>Click here to view text</h3></Card></Link>
             </div>
         </div>
