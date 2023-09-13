@@ -13,8 +13,6 @@
 
 The entire design system has been developed on React and uses Vanilla CSS. 
 
-Contact
-
 If you have any questions, feedback, or need support, feel free to reach out to me at smustassim@gmail.com.
 
 Happy coding with Vapor UI! 🚀
