@@ -12,7 +12,7 @@ const Home = () => {
             <div className="home-secondary">
                 <img src="https://i.postimg.cc/L6LySvYf/sail.jpg" alt="vapor-five" className="vapor-secondary"/>
                 <h1>A UI Design System</h1>
-                <h2>developed by &copy; Syed Mustassim</h2>
+                <h2>developed by Syed Mustassim</h2>
             </div>
         </div>
     )
