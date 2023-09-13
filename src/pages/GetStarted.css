@@ -65,7 +65,7 @@
 .start-img-content{
     position: absolute;
     top: 720px;
-    left: 1050px;
+    left: 1030px;
     display: flex;
     justify-content: center;
     background: var(--dark-primary);
