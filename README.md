@@ -1,4 +1,4 @@
-<a href="https://vapor-ui.netlify.app/"><h1>Vapor UI</h1></a>
+<h1>Vapor UI</h1>
 <h2>A UI component library by Syed Mustassim</h2>
 
 <p>Welcome to Vapor UI, a versatile UI component library designed to simplify and enhance the development of web applications. Vapor UI provides a collection of reusable and customizable components to streamline your frontend development process, ensuring consistency and efficiency.</p>
